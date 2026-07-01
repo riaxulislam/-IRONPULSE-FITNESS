@@ -1,0 +1,6 @@
+{
+  "name": "IronPulse Fitness Store",
+  "description": "A high-conversion, modern, and minimal fitness and gym e-commerce storefront modeled after premium Shopify stores. Built with sleek animations, interactive product detail sheets, a shopping cart, and custom visual collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
